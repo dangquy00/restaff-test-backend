@@ -1,0 +1,13 @@
+export enum HttpCode {
+    SUCCESS = 200,
+    CREATED = 201,
+    ACCEPTED = 202,
+    NOCONTENT = 204,
+    UNAUTHORIZED = 401,
+    TOKEN_ERROR = 402,
+    BADREQUEST = 400,
+    NOTFOUND = 404,
+    METHODNOTALLOWED = 405,
+    FORBIDDEN = 403,
+    ERROR = 500
+}

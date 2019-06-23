@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c61a4ed8.chunk.css",
+    "main.js": "/static/js/main.06a5d636.chunk.js",
+    "main.js.map": "/static/js/main.06a5d636.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.27c157b5.chunk.css": "/static/css/2.27c157b5.chunk.css",
+    "static/js/2.99f4ffbd.chunk.js": "/static/js/2.99f4ffbd.chunk.js",
+    "static/js/2.99f4ffbd.chunk.js.map": "/static/js/2.99f4ffbd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f8ee04f171331c4b2b0f323e4ee3f158.js": "/precache-manifest.f8ee04f171331c4b2b0f323e4ee3f158.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.27c157b5.chunk.css.map": "/static/css/2.27c157b5.chunk.css.map",
+    "static/css/main.c61a4ed8.chunk.css.map": "/static/css/main.c61a4ed8.chunk.css.map",
+    "static/media/App.scss": "/static/media/zw.ad4ad36d.svg",
+    "static/media/sygnet.svg": "/static/media/sygnet.c8d5c2d9.svg"
+  }
+}
